@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    display: block;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 7px 7px 7px rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 20%;
+    border-radius: 20px;
+    background-image: linear-gradient(to left, #333333, #FFFFFF );
+}
+#vn{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+p{
+    font-size: 11pt;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+body{
+    background-image: linear-gradient(to left, #00BFFF, #4400ff);
+    height: 100%;
+}
+#dbv{
+    margin-left: 25%;
+    margin-right: 25px;
+    box-shadow: 5px 5px 5px black;
+}
+#button{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px black;
+    cursor: pointer;
+}
+section{
+    background-color: white;
+    margin: auto;
+    margin-top: 25px;
+    width: 35%;
+    border: 1px solid black;
+    box-shadow: 7px 7px 7px rgb(0, 0, 0); 
+    border-radius: 20px;
+}
+#vlista{
+    width: 70%;
+    margin-left: 70px;
+    box-shadow: 3px 3px 7px black;
+
+}
+#finalizar{
+    margin-top: 7px;
+    margin-left: 20px;
+    margin-bottom: 3px;
+}
+#tmh{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: large;
+}
+#mir{
+    margin-left: 20px;
+    font-size: large;
+}
+#mnr{
+    margin-left: 20px;
+    font-size: large;
+}
+#sm{
+    margin-left: 20px;
+    font-size: large;
+}
+#mda{
+    margin-left: 20px;
+    font-size: large;
+    margin-bottom: 10px;
+}
